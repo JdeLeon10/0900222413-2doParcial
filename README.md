@@ -14,5 +14,7 @@ you'll be creating yourself during the tutorial and the `jenkins/scripts` subdir
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
+
 Nombre completo: Jeremy Alejandro de León Roa
 Carnet: 0900 22 2413
+Version 2 por error en archivo yml
